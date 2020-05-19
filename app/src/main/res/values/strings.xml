@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ortalamaHesaplama1</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="ekle">EKLE</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sil">SİL</string>
+    <string name="dersadinigiriniz">Ders Adını Yazınız</string>
+    <string name="todo">TODO</string>
+    <string name="girisyap">GİRİŞ YAP</string>
+
+</resources>
